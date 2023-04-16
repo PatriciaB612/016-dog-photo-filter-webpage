@@ -22,7 +22,7 @@ h1 {
   flex-wrap: wrap;
   margin-bottom: 2em;
   padding: 0 1em;
-  gap: 1em;
+  gap: 0.5em;
 }
 
 .btn {
@@ -31,6 +31,7 @@ h1 {
   border: none;
   border-radius: 30px;
   font-size: 1rem;
+  color: #2d3047;
   font-weight: bolder;
 }
 
@@ -42,7 +43,7 @@ h1 {
 
 .img-container {
   display: grid;
-  grid-gap: 0.5em;
+  grid-gap: 2em;
   width: 80%;
   margin: 0 auto 3em;
 }
