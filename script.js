@@ -1,103 +1,104 @@
 const dogPhotos = [
   {
     id: 1,
-    category: 'adventurous',
-    img: 'images/adventurous-dog (2).jpg',
-  },
-  {
-    id: 2,
-    category: 'adventurous',
-    img: 'images/adventurous-dog.jpg',
-  },
-  {
-    id: 3,
-    category: 'casanova',
-    img: 'images/casanova-dog (2).jpg',
-  },
-  {
-    id: 4,
-    category: 'casanova',
-    img: 'images/casanova-dog (3).jpg',
-  },
-  {
-    id: 5,
-    category: 'casanova',
-    img: 'images/casanova-dog.jpg',
-  },
-  {
-    id: 6,
-    category: 'cute',
-    img: 'images/cute-dog.jpg',
-  },
-  {
-    id: 7,
     category: 'cute',
     img: 'images/cute-pug.jpg',
   },
   {
+    id: 2,
+    category: 'sleeping',
+    img: 'images/sleeping-dog (4).jpg',
+  },
+  {
+    id: 3,
+    category: 'adventurous',
+    img: 'images/adventurous-dog.jpg',
+  },
+  {
+    id: 4,
+    category: 'casanova',
+    img: 'images/casanova-dog (2).jpg',
+  },
+  {
+    id: 5,
+    category: 'casanova',
+    img: 'images/casanova-dog (3).jpg',
+  },
+  {
+    id: 6,
+    category: 'casanova',
+    img: 'images/casanova-dog.jpg',
+  },
+  {
+    id: 7,
+    category: 'adventurous',
+    img: 'images/adventurous-dog (2).jpg',
+  },
+  {
     id: 8,
+    category: 'cute',
+    img: 'images/cute-dog.jpg',
+  },
+
+  {
+    id: 9,
     category: 'cool',
     img: 'images/cool-dog.jpg',
   },
   {
-    id: 9,
+    id: 10,
     category: 'cool',
     img: 'images/cool-dog (2).jpg',
   },
   {
-    id: 10,
+    id: 11,
     category: 'cool',
     img: 'images/cool-dog (3).jpg',
   },
   {
-    id: 11,
+    id: 12,
     category: 'cool',
     img: 'images/cool-dog (4).jpg',
   },
   {
-    id: 12,
+    id: 13,
     category: 'playful',
     img: 'images/playful-dog.jpg',
   },
   {
-    id: 13,
+    id: 14,
     category: 'playful',
     img: 'images/playful-dog (2).jpg',
   },
   {
-    id: 14,
+    id: 15,
     category: 'playful',
     img: 'images/playful-dog (3).jpg',
   },
   {
-    id: 15,
+    id: 16,
     category: 'quiet',
     img: 'images/quiet-dog.jpg',
   },
   {
-    id: 16,
+    id: 17,
     category: 'quiet',
     img: 'images/quiet-dog (2).jpg',
   },
   {
-    id: 17,
+    id: 18,
     category: 'sleeping',
     img: 'images/sleeping-dog.jpg',
   },
   {
-    id: 18,
+    id: 19,
     category: 'sleeping',
     img: 'images/sleeping-dog (2).jpg',
   },
   {
-    id: 19,
-    category: 'sleeping',
-    img: 'images/sleeping-dog (3).jpg',
-  },
-  {
     id: 20,
     category: 'sleeping',
-    img: 'images/sleeping-dog (4).jpg',
+    img: 'images/sleeping-dog (3).jpg',
   },
 ]
 
